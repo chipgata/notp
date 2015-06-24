@@ -1,0 +1,35 @@
+{
+  "name": "notp",
+  "version": "0.0.1",
+  "description": "Node One Time Password, convert from PHPGangsta/GoogleAuthenticator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipgata/notp.git"
+  },
+  "keywords": [
+    "Node",
+    "OTP",
+    "Node",
+    "One",
+    "Time",
+    "Password",
+    "Node",
+    "OTP",
+    "convert",
+    "from",
+    "GoogleAuthenticator"
+  ],
+  "author": "thuonglt001@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chipgata/notp/issues"
+  },
+  "homepage": "https://github.com/chipgata/notp#readme",
+  "dependencies": {
+    "phpjs": "^1.3.2"
+  }
+}
